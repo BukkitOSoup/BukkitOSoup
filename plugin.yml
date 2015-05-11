@@ -1,0 +1,25 @@
+name: BukkitOSoup
+main: com.ogxclaw.bukkitosoup.BukkitOSoup
+version: 1.0.0
+author: Ogxclaw
+commands:
+  "kickall":
+    descriptions: Kicks all players from the server
+  "kick":
+    description: Kicks a player from the server
+  "unban":
+    description: Unbans a player from the server
+  "ban":
+    description: Bans a player from the server
+  "lookup":
+    description: Looks up a player's ban record
+  "who":
+    description: Shows all players on the server
+  "setrank":
+    description: Sets the rank of a player
+  "staff":
+    description: See a list of staff members
+  "addstaff":
+    description: Adds a staff member to the list above
+  "help":
+    description: Shows help
