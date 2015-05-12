@@ -5,7 +5,7 @@ public class Permissions {
 	//GENERAL
 	public static String commandHelp = "bukkitosoup.help"; //DONE
 	public static String commandStaff = "bukkitosoup.staff"; //SORTA DONE
-	public static String commandPM = "bukkitosoup.pm";
+	public static String commandPM = "bukkitosoup.pm"; //DONE
 	public static String commandTp = "bukkitosoup.tp";
 	public static String commandTpA = "bukkitosoup.tpa";
 	public static String commandSummon = "bukkitosoup.summon";
@@ -19,7 +19,7 @@ public class Permissions {
 	public static String commandAccept = "bukkitosoup.accept";
 	public static String commandDeny = "bukkitosoup.deny";
 	public static String commandTime = "bukkitosoup.time";
-	public static String commandMe = "bukkitosoup.me";
+	public static String commandMe = "bukkitosoup.me"; //DONE
 	public static String commandGive = "bukkitosoup.give";
 	
 	//ADMIN
