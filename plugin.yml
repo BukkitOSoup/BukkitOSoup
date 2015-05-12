@@ -3,6 +3,10 @@ main: com.ogxclaw.bukkitosoup.BukkitOSoup
 version: 1.0.0
 author: Ogxclaw
 commands:
+  "me":
+    description: Used for roleplay to talk in third person
+  "pm":
+    description: Messages another player privately
   "kickall":
     descriptions: Kicks all players from the server
   "kick":
